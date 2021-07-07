@@ -121,7 +121,7 @@ header nav a:hover {
   height: 100%;
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 400px){
   .main-movie .button:not(:last-child) {
     margin-bottom: .5rem;
   }
